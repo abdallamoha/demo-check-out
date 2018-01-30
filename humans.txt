@@ -1,9 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology 
-
 # TEAM
 
-    <name> -- <role> -- 87:
 
 # THANKS
 
